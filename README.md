@@ -1,4 +1,4 @@
-# Mathias’s dotfiles
+# Torkild's dotfiles (Forked from http://mths.be/dotfiles)
 
 ## Installation
 
